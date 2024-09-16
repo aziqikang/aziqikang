@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi! I'm Amy 😊
 
-<!--
-**aziqikang/aziqikang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="center" src="https://github.com/aziqikang/aziqikang/blob/main/blob_gif.gif" width="400" height="400" />
 
-Here are some ideas to get you started:
+Hi! I'm a computer science/math student with a love for problem solving and affinity for design ((:
 
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I'm from Portland, Oregon! Ask me about my favorite places in the PNW!
+  
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - 💻 putting together a design portfolio
+  - 🤯 school...learning a whole lot
+  - 🌱 growing a jade plant baby
+- 🎨 Check out my art stuff --> [🌱 theartchives](https://theartchives.squarespace.com/)
+- 🤔 I’m interested in learning more about machine learning and its applications to computer vision/graphics!
+- 📫 How to reach me:
+  - email: aziqikang@gmail.com
+  - linkedin: [amyzkang](https://www.linkedin.com/in/amyzkang/)
