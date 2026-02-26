@@ -8,8 +8,8 @@ Hi! I'm a computer science/math student with a love for problem solving and affi
 - ⚡ Fun fact: I'm from Portland, Oregon! Ask me about my favorite places in the PNW!
   
 - 🔭 I’m currently working on ...
-  - 💻 putting together a design portfolio
-  - 🤯 school...learning a whole lot
+  - 💻 reading about elliptic curve cryptography (ECC) as a part of my math pair reading program
+  - 🪐 designing hackathon swag for boilermake @ purdue!
   - 🌱 growing a jade plant baby
 - 🎨 Check out my art stuff --> [🌱 theartchives](https://theartchives.squarespace.com/)
 - 🤔 I’m interested in learning more about machine learning and its applications to computer vision/graphics!
