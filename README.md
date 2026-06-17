@@ -11,7 +11,7 @@ Hi! I'm a computer science/math student with a love for problem solving and affi
   - 💻 reading about elliptic curve cryptography (ECC) as a part of my math pair reading program
   - 🪐 designing hackathon swag for boilermake @ purdue!
   - 🌱 growing a jade plant baby
-- 🎨 Check out my art stuff --> [🌱 theartchives](https://theartchives.squarespace.com/)
+- 🎨 Check out my art stuff --> [🌱 here]([https://theartchives.squarespace.com/](https://amykang.me/))
 - 🤔 I’m interested in learning more about machine learning and its applications to computer vision/graphics!
 - 📫 How to reach me:
   - email: aziqikang@gmail.com
