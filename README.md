@@ -2,7 +2,8 @@
 
 <img align="center" src="https://github.com/aziqikang/aziqikang/blob/main/blob_gif.gif" width="400" height="400" />
 
-Hi! I'm a computer science/math student with a love for problem solving and affinity for design ((:
+Hi!! My name is Amy 👋 
+I study CS + Math at Purdue and am currently studying abroad at NUS. Just here to toy around with some fun projects and experiments (:
 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm from Portland, Oregon! Ask me about my favorite places in the PNW!
