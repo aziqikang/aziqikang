@@ -1,19 +1,18 @@
-## Hi! I'm Amy 😊
+## hi! i'm amy 😊
 
-<img align="center" src="https://github.com/aziqikang/aziqikang/blob/main/blob_gif.gif" width="400" height="400" />
+<img align="center" src="https://github.com/aziqikang/aziqikang/blob/main/blob_gif.gif" width="200" height="200" />
 
-Hi!! My name is Amy 👋 
-I study CS + Math at Purdue and am currently studying abroad at NUS. Just here to toy around with some fun projects and experiments (:
+hi!! my name is amy 👋 
+i study **computer science + math** at **purdue** and am currently studying abroad at **NUS**. 
 
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm from Portland, Oregon! Ask me about my favorite places in the PNW!
-  
-- 🔭 I’m currently working on ...
-  - 💻 reading about elliptic curve cryptography (ECC) as a part of my math pair reading program
-  - 🪐 designing hackathon swag for boilermake @ purdue!
-  - 🌱 growing a jade plant baby
-- 🎨 Check out my art stuff --> [🌱 here]([https://theartchives.squarespace.com/](https://amykang.me/))
-- 🤔 I’m interested in learning more about machine learning and its applications to computer vision/graphics!
-- 📫 How to reach me:
+here to toy around with some fun projects and experiments (:
+
+---
+
+🎨 check out my art stuff --> [HERE](https://amykang.me/art/)
+
+👩‍💻 and my personal website --> [HERE](https://amykang.me)
+
+📫 reach me at:
   - email: aziqikang@gmail.com
   - linkedin: [amyzkang](https://www.linkedin.com/in/amyzkang/)
